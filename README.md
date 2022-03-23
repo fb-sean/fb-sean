@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sean</h1>
-<h5 align="left">Developer of [Betty](https://www.betty.cx) and [Cloe](https://bit.ly/cloeinv) | Backend/Frontend knowledge</h3>
+<h5 align="left">Developer of <a href="https://www.betty.cx/">Betty</a> and <a href="https://bit.ly/cloeinv">Cloe</a> | Backend/Frontend knowledge</h3>
 <h5 align="left">Sorry there isn't a lot to see here, most of my work is closed source.</h4>
 
 
