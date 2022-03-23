@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sean</h1>
+<h5 align="left">Developer of [Betty](https://www.betty.cx) and [Cloe](https://bit.ly/cloeinv) | Backend/Frontend knowledge</h3>
+<h5 align="left">Sorry there isn't a lot to see here, most of my work is closed source.</h4>
 
-<!--
-**fb-sean/fb-sean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://discord.gg/ZVERh35">
+    <img src="https://cdn.discordapp.com/attachments/773221397928869888/883691820905816084/com-gif-maker-unscreen.gif" alt="nvm" width="150"/>
+   </a>
+  <br>
+  <br>
+  <br>
+  <a href="#"><img src="https://discord.c99.nl/widget/theme-1/340243638892101646.png"></a>
+</p>
