@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sean</h1>
-<h5 align="left">Developer of <a href="https://www.betty.cx/">Betty</a> and <a href="https://bit.ly/cloeinv">Cloe</a> | Backend/Frontend knowledge</h3>
+<h5 align="left">Developer of <a href="https://www.betty.cx/">Betty</a> and <a href="https://cloe.gg">Cloe</a> | Backend/Frontend knowledge</h3>
 
 <p align="left">
   <a href="https://discord.gg/ZVERh35">
