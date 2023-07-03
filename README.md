@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sean</h1>
 <h5 align="left">Developer of <a href="https://www.betty.cx/">Betty</a> and <a href="https://cloe.gg">Cloe</a> | Backend/Frontend knowledge</h3>
 
-<a href="https://wakatime.com/badge/user/7de10e32-85ae-4747-9955-60441e661b2e/project/769a7e02-d481-45b6-aa01-2a74e0be2e64"><img src="https://wakatime.com/badge/user/7de10e32-85ae-4747-9955-60441e661b2e/project/769a7e02-d481-45b6-aa01-2a74e0be2e64.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/@7de10e32-85ae-4747-9955-60441e661b2e"><img src="https://wakatime.com/badge/user/7de10e32-85ae-4747-9955-60441e661b2e.svg" alt="Total time coded since Mar 1 2023" /></a>
 
 ![](https://komarev.com/ghpvc/?username=fb-sean)
 
