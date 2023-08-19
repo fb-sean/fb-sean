@@ -31,10 +31,10 @@
 ---
 
 <p align="center">
-    <a href="https://discord.gg/ZVERh35">
-        <img src="https://cdn.discordapp.com/attachments/773221397928869888/883691820905816084/com-gif-maker-unscreen.gif" alt="Join Discord" width="150"/>
-    </a>
     <a href="#">
         <img src="https://discord.c99.nl/widget/theme-1/340243638892101646.png" alt="Discord Status">
+    </a>
+        <a href="https://discord.gg/ZVERh35">
+        <img src="https://cdn.discordapp.com/attachments/773221397928869888/883691820905816084/com-gif-maker-unscreen.gif" alt="Join Discord" width="150"/>
     </a>
 </p>
