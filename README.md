@@ -13,8 +13,8 @@
 
 🤖 **Discord Bots**
 
-- **Cloe**: An all-in-one bot serving 400k users. Features range from moderation to fun games and utilities. [Learn More...](https://cloe.gg?utm_source=github-readme)
-- **Betty**: A dynamic music bot with custom playlists and 24/7 mode. Amplifying over 1.1 million servers' music vibes. [Learn More...](https://www.betty.cx/?utm_source=github-readme)
+- **Cloe**: An all-in-one bot serving 500k users. Features range from moderation to fun games and utilities. [Learn More...](https://cloe.gg?utm_source=github-readme)
+- **Betty**: A dynamic music bot with custom playlists and 24/7 mode. Amplifying over 1.7 million users' music vibes. [Learn More...](https://www.betty.cx/?utm_source=github-readme)
 - **Memer**: The go-to meme bot for Discord. Dive into a collection of your favorite memes and discover daily trending ones. [Learn More...](https://memer.sattler.dev/?utm_source=github-readme)
 - **Himiko**: A treat for anime fans! Collect, trade, and enjoy anime character cards while playing a delightful game of smash or pass. [Learn More...](https://himiko.sattler.dev/?utm_source=github-readme)
 - **Grow a Plant**: A bot to grow your own plant with your whole community with different buyable pots. [Learn More...](https://growweed.sattler.dev/?utm_source=github-readme)
