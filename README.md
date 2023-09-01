@@ -22,7 +22,9 @@
 
 🎵 **Web & API**
 
+- **Sattler.dev**: The main website from me with multiple infos about my projects and myself. [Discover Now](https://sattler.dev?utm_source=github-readme)
 - **SongOf.Today**: Rediscover music daily! From Global to Metal, we've got a fresh song waiting for you every day. And yes, we offer a free API for integrations. [Discover Now](https://SongOf.Today?utm_source=github-readme)
+- **DiscordBotReviews.com**: A website where you can write reviews about bots or see reviews about bots. [Discover Now](https://discordbotreviews.com?utm_source=github-readme)
 - **DiscordResources.org**: A comprehensive compilation of valuable Discord tools and assets for users of all levels, from novices to experts. [Discover Now](https://discordresources.org?utm_source=github-readme)
 
 🔧 **Library**
