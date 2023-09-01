@@ -23,6 +23,7 @@
 🎵 **Web & API**
 
 - **SongOf.Today**: Rediscover music daily! From Global to Metal, we've got a fresh song waiting for you every day. And yes, we offer a free API for integrations. [Discover Now](https://SongOf.Today?utm_source=github-readme)
+- **DiscordResources.org**: A comprehensive compilation of valuable Discord tools and assets for users of all levels, from novices to experts. [Discover Now](https://discordresources.org?utm_source=github-readme)
 
 🔧 **Library**
 
