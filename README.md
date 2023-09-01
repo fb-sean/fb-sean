@@ -17,7 +17,7 @@
 - **Betty**: A dynamic music bot with custom playlists and 24/7 mode. Amplifying over 1.7 million users' music vibes. [Learn More...](https://www.betty.cx/?utm_source=github-readme)
 - **Memer**: The go-to meme bot for Discord. Dive into a collection of your favorite memes and discover daily trending ones. [Learn More...](https://memer.sattler.dev/?utm_source=github-readme)
 - **Himiko**: A treat for anime fans! Collect, trade, and enjoy anime character cards while playing a delightful game of smash or pass. [Learn More...](https://himiko.sattler.dev/?utm_source=github-readme)
-- **MyGiveaways**: A bot to create good giveaways with advance requirements. [Learn More...](https://mygiveaways.sattler.dev/?utm_source=github-readme)
+- **MyGiveaways**: A bot to create good giveaways with advance requirements. [Learn More...](https://auth.mygiveaways.lol/?utm_source=github-readme)
 - **Grow a Plant**: A bot to grow your own plant with your whole community with different buyable pots. [Learn More...](https://growweed.sattler.dev/?utm_source=github-readme)
 - **Kick Bot**: A kick.com Discord bot to send notificaitions when you go live, sync subscriber roles, show channel stats and live subscriber leaderboards. [Learn More...](https://www.kickbot.gg/?utm_source=github-readme)
 
