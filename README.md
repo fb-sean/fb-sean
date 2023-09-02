@@ -31,6 +31,10 @@
 
 - **Interactions.JS**: A potent Javascript library to seamlessly work with Discord's interactions. Trusted by bots like MyGiveaways, Crypto Helper, CuteCat, and more. [Discover Now](https://interactionsjs.com/1.2.11)
 
+**Good to know:**
+
+- **Alternatives to Mee6**: https://gist.github.com/fb-sean/78907a85105dc9062a4d19dca08e1743
+
 ---
 
 <p align="center">
