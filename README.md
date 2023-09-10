@@ -20,6 +20,8 @@
 - **MyGiveaways**: A bot to create good giveaways with advance requirements. [Learn More...](https://auth.mygiveaways.lol/?utm_source=github-readme)
 - **Grow a Plant**: A bot to grow your own plant with your whole community with different buyable pots. [Learn More...](https://growweed.sattler.dev/?utm_source=github-readme)
 - **Kick Bot**: A kick.com Discord bot to send notificaitions when you go live, sync subscriber roles, show channel stats and live subscriber leaderboards. [Learn More...](https://www.kickbot.gg/?utm_source=github-readme)
+- **Polls**: Create polls easier than ever before. And at the same time, advance like never before. [Learn More...](https://polls.sattler.dev/?utm_source=github-readme)
+- **Reddit Stories**: A Discord bot that delivers random stories from various Reddit story subreddits. [Learn More...](https://redditstories.de/?utm_source=github-readme)
 
 🎵 **Web & API**
 
