@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-Contact me at sean.github@sattler.dev
+Contact me at <a href="mailTo:sean.github@sattler.dev">sean.github@sattler.dev</a>
 </p>
 
 <p align="center">
