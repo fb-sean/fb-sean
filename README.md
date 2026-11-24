@@ -15,7 +15,7 @@ Contact me at <a href="mailTo:sean.github@sattler.dev">sean.github@sattler.dev</
 
 <p align="center">
     <a href="#">
-        <img src="https://discord.c99.nl/widget/theme-1/340243638892101646.png" alt="Discord Status">
+        <img src="https://statusbanner.com/banner/aurora-glass/340243638892101646.svg?hideBadges=1&idleMessage=Checkout%20my%20websites%21&animatedAvatar=1&radius=34&showUsername=1" alt="Discord Status">
     </a>
         <a href="https://discord.gg/ZVERh35">
         <img src="https://cdn.discordapp.com/attachments/773221397928869888/883691820905816084/com-gif-maker-unscreen.gif" alt="Join Discord" width="150"/>
